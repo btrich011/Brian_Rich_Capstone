@@ -5,12 +5,12 @@ Tick Colony Variability"
 ## Table of contents
 |Drop Data|                                                                             Plots                                                                              |                                                                                                                                              |                                                                               Kmeans Model                                                                                |
 |:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/Zhu-Yifan/Lafayette_River_Time_Series_Analysis/blob/master/notebooks/Time_Series_Analysis.ipynb)               |  [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)   |   ... |                                                                                ...                                                                                 |
+|[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/plots.png)               |  [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)                                         
 
 
 # History
  
-    Ticks are important ectoparasites that pose a significant threat to both livestock
+Ticks are important ectoparasites that pose a significant threat to both livestock
 sustainability through damage to animals and human health due to the large number of pathogens
 they may vector to their hosts (Levin and Schumacher, 2016). Ticks have a four stage life cycle
 where after emerging from the egg the larvae, nymphs, and adults are obligate blood feeders that
@@ -64,15 +64,12 @@ Entomology, 36(1), 659–681. https://doi.org/10.1146/annurev.en.36.010191.00330
 Wang, H.-H., Corson, M. S., Grant, W. E., & Teel, P. D. (2017). Quantitative models of rhipicephalus (boophilus)
 ticks: Historical Review and synthesis. Ecosphere, 8(9). https://doi.org/10.1002/ecs2.1942 
 
-<p align="center">
-  <img src="https://github.com/Zhu-Yifan/Lafayette_River_Time_Series_Analysis/blob/master/figures/Lafayette%20River_map.png" alt="Figure 1. Study area, showing two sampling sites, one at the Norfolk Yacht and Country Club (NYCC), near the mouth of the Lafayette River, and another at Ashland Circle (AC), near the headwaters of the Lafayette River. ">
-</p>
 
 
 
-# Obejective
+# Objective
 
-Use an unsupervised machine learning method to analyze 63 generations of tick drop data from colony raised "Rhipicephalus (Boophilus) microplus".
+Use an unsupervised machine learning method to analyze 63 generations of tick drop data from colony raised "Rhipicephalus (Boophilus) microplus".  Kmeans will be utilized here for the initial analysis.
 
 ### Dataset 
   Tick drop data was obtained from USDA ARS' Cattle Fever Research Laboratory in Edinburg, TX.
