@@ -3,9 +3,9 @@ This repository is my capstone project in the data science course OEAS895 —"Ex
 Tick Colony Variability" 
 
 ## Table of contents
-|Drop Data|                                                                             Plots                                                                              |                                                                                                                                              |                                                                                                                                                               Kmeans Model|
+|Drop Data|                                                                             Plots                                                                              |                                                                                                                                              |                                                                                                                                                               Kmeans Model|K-Means Model
 |:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/plots.png)               |               [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)                                         
+|[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/plots.png)               |        [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)                                         
 
 
 # History
