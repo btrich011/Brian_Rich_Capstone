@@ -6,7 +6,8 @@ Tick Colony Variability"
 |Drop Data|                                                                             Plots                                                                              |K-means Model                                                                                                                                              |                                                                                                                                                               Report|
 |:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/plots.png)               |        [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)                                         
-[Capstone PDF] https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone.pdf
+[Capstone PDF] 
+(https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone.pdf)
 
 # History
  
