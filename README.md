@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -2632,6 +2633,21 @@ Tick Colony Variability"</p>
 </table>
 <h1 dir="auto"><a id="user-content-history" class="anchor" aria-hidden="true" href="#history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>History</h1>
 <p dir="auto">Ticks are important ectoparasites that pose a significant threat to both livestock
+=======
+# Introduction
+This repository is my capstone project in the data science course OEAS895 —"Exploration of Machine Learning for the Analysis of Generational
+Tick Colony Variability" 
+
+## Table of contents
+|Drop Data|                                                                             Plots                                                                              |                                                                                                                                              |                                                                               Kmeans Model                                                                                |
+|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/plots.png)               |  [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)                                         
+
+
+# History
+ 
+Ticks are important ectoparasites that pose a significant threat to both livestock
+>>>>>>> 1201491bbcfc8165d97bc61ac1e5a1eed7216335
 sustainability through damage to animals and human health due to the large number of pathogens
 they may vector to their hosts (Levin and Schumacher, 2016). Ticks have a four stage life cycle
 where after emerging from the egg the larvae, nymphs, and adults are obligate blood feeders that
@@ -2673,6 +2689,7 @@ accurate. Target variables will include temperature as higher temperatures speed
 cycle, speed of female drop (i.e. the time period from the first female dropping from the host
 until the last), the total number of dropped females per generation, the speed of life cycle
 completion (time between larval infestation and female drop), and the average weight of the
+<<<<<<< HEAD
 females per generation.</p>
 <p dir="auto">References
 Levin, M. L., &amp; Schumacher, L. B. (2016). Manual for maintenance of multi-host ixodid ticks in the laboratory.
@@ -2797,10 +2814,24 @@ ticks: Historical Review and synthesis. Ecosphere, 8(9). <a href="https://doi.or
     <span class="f6 color-fg-muted"></span>
   </div>
 </footer>
+=======
+females per generation.
+
+References
+Levin, M. L., & Schumacher, L. B. (2016). Manual for maintenance of multi-host ixodid ticks in the laboratory.
+Experimental and Applied Acarology, 70(3), 343–367. https://doi.org/10.1007/s10493-016-0084-8
+Maramorosch, K., Mahmood, F. E., & Sonenshine, D. E. (1999). Maintenance of Ticks in the Laboratory. In
+Maintenance of human, animal, and plant pathogen vectors. essay, Science Publishers.
+Needham, G. R., & Teel, P. D. (1991). Off-host physiological ecology of ixodid ticks. Annual Review of
+Entomology, 36(1), 659–681. https://doi.org/10.1146/annurev.en.36.010191.003303
+Wang, H.-H., Corson, M. S., Grant, W. E., & Teel, P. D. (2017). Quantitative models of rhipicephalus (boophilus)
+ticks: Historical Review and synthesis. Ecosphere, 8(9). https://doi.org/10.1002/ecs2.1942 
+>>>>>>> 1201491bbcfc8165d97bc61ac1e5a1eed7216335
 
 
 
 
+<<<<<<< HEAD
   <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
     <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -2872,3 +2903,15 @@ ticks: Historical Review and synthesis. Ecosphere, 8(9). <a href="https://doi.or
   </body>
 </html>
 
+=======
+# Objective
+
+Use an unsupervised machine learning method to analyze 63 generations of tick drop data from colony raised "Rhipicephalus (Boophilus) microplus".  Kmeans will be utilized here for the initial analysis.
+
+### Dataset 
+  Tick drop data was obtained from USDA ARS' Cattle Fever Research Laboratory in Edinburg, TX.
+### Python version and packages
+
+* Python version 3.10.9
+* All the packages/versions used for this project can be found in [Requirements](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/requirements.txt) file.
+>>>>>>> 1201491bbcfc8165d97bc61ac1e5a1eed7216335
