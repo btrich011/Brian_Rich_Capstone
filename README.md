@@ -7,6 +7,7 @@ Tick Colony Variability"
 |:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Drop CSV](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/tick_drop1.csv)|              [Exploratory Plots](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/plots.png)               |        [Model](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone5.ipynb)                                         
                                                                                                                  [Capstone pdf]
+(https://github.com/btrich011/Brian_Rich_Capstone/blob/main/Brian_Rich_Capstone.pdf)                                                                                                                   
 
 # History
  
@@ -90,4 +91,3 @@ Use an unsupervised machine learning method to analyze 63 generations of tick dr
 
 * Python version 3.10.9
 * All the packages/versions used for this project can be found in [Requirements](https://github.com/btrich011/Brian_Rich_Capstone/blob/main/requirements.txt) file.
->>>>>>> 1201491bbcfc8165d97bc61ac1e5a1eed7216335
